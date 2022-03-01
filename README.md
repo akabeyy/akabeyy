@@ -5,8 +5,8 @@
 
 ```js
 var akachinn = {
-    "height": "1.80",
-    "weight": "60",
+    "height": "1.77",
+    "weight": "59",
     "age": "17",
     "type": "human",
     "job": "student",
